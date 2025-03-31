@@ -15,7 +15,7 @@ public class Principal {
 		iphone.ligar("(47) 99999-9999");
 		System.out.println("");
 		
-		iphone.selecionarMusica("So Far Away - Avenged Sevenfold");
+		iphone.selecionarMusica("So Far Away - Avenged Sevenfold ");
 		iphone.tocar();
 		iphone.pausar();
 
