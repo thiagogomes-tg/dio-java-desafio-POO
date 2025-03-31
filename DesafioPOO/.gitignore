@@ -1,1 +1,9 @@
+# Pasta de configurações do Eclipse
+/.settings/
+
+# Arquivos do Eclipse
+.classpath
+.project
+
+# Pasta de saída da compilação
 /bin/
